@@ -1,0 +1,14 @@
+
+
+
+
+Solo Blogging platform backend
+- a model to store blogs
+- model needs to have fields as such: blog title, blog itself, creation date, maybe a slug field, published/draft status (true/false)
+- endpoint to list all blogs partially (used to display all articles in a page)
+- endpoint to fetch particular blog (gives full article)
+- endpoint to create new blog
+- endpoint to publish drafted blog
+- endpoint to unpublish (go back to draft mode)
+- endpoint to edit blog
+- endpoint to delete blog
